@@ -1,6 +1,6 @@
 # Template Project
 
-Gradle + Kotlin + Spring Webflux
+Gradle + Kotlin
 
 ## Features
 - Code formatting using [spotless](https://github.com/diffplug/spotless) plugin
@@ -15,5 +15,5 @@ This is a [cookiecutter](https://github.com/cookiecutter/cookiecutter) template,
 ## Usage
 
 ```sh
-cookiecutter gh:jonhkr/gradle-kotlin-spring-reactive-template
+cookiecutter gh:jonhkr/gradle-kotlin-template
 ```
