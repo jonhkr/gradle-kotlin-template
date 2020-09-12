@@ -1,5 +1,6 @@
 object Versions {
     const val kotlin = "1.4.10"
+    const val owaspDependencyCheck = "6.0.0.1"
     const val spotless = "5.3.0"
     const val junit = "5.6.2"
     const val slf4j = "1.7.30"

@@ -5,6 +5,7 @@ plugins {
     id("application")
     id("com.diffplug.spotless") version Versions.spotless
     kotlin("jvm") version Versions.kotlin
+    id("org.owasp.dependencycheck") version Versions.owaspDependencyCheck
 }
 
 repositories {
